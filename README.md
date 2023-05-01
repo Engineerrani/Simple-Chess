@@ -1,1 +1,1 @@
-# Assignment-1-Chessboard.github.io
+# Chess page using simple Html,Css
